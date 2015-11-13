@@ -14,7 +14,6 @@ var Elevator = (function() {
     'use strict';
 
     // Elements
-    var body = null;
 
     // Scroll vars
     var animation = null;
